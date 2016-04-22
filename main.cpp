@@ -1,4 +1,4 @@
-//This is the demo for tree.
+//This is the main for demo tree.
 #include <iostream>
 
 int main()
